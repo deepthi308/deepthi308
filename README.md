@@ -1,16 +1,23 @@
-### Hi there 👋
+# Deepthi Hariraman ✨
+> I am a self taught Fronend Web Developer  
+> And aspiring Fullstack Javascript Developer
 
-<!--
-**deepthi308/deepthi308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Technical Skills:
+- HTML
+- CSS
+- JavaScript
+- React Js
+- Bootstrap
+- Core Java
 
-Here are some ideas to get you started:
+## Soft Skills:
+- Patience
+- Determination
+- Hardwork in a smart way ;)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mission 2023:
+> Learn Advance Java
+> Learn Android App Development Using Java
+> Learn C#
+> Learn Unity
+> Create and Publish a Game in Playstore or Appstore
