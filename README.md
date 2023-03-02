@@ -15,9 +15,4 @@
 - Determination
 - Hardwork in a smart way ;)
 
-## Mission 2023:
-> Learn Advance Java
-> Learn Android App Development Using Java
-> Learn C#
-> Learn Unity
-> Create and Publish a Game in Playstore or Appstore
+
