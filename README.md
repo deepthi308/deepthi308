@@ -9,6 +9,8 @@
 - React Js
 - Bootstrap
 - Core Java
+- Node.js
+- Express
 
 ## Soft Skills:
 - Patience
