@@ -11,6 +11,7 @@
 - Core Java
 - Node.js
 - Express
+- SAP Screen Persona
 
 ## Soft Skills:
 - Patience
