@@ -6,12 +6,18 @@
 - HTML
 - CSS
 - JavaScript
+- jQuery
 - React Js
 - Bootstrap
 - Core Java
 - Node.js
 - Express
+- Git
+- GitHub
 - SAP Screen Persona
+- SAP Fiori
+- SAP UI5
+- SAP ABAP
 
 ## Soft Skills:
 - Patience
