@@ -18,6 +18,7 @@
 - SAP Fiori
 - SAP UI5
 - SAP ABAP
+- OData Services
 
 ## Soft Skills:
 - Patience
